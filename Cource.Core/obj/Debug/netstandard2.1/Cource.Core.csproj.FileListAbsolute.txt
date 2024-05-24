@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\Cource.App\Cource.Core\bin\Debug\netstandard2.1\Cource.Core.deps.json
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\Cource.App\Cource.Core\bin\Debug\netstandard2.1\Cource.Core.dll
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\Cource.App\Cource.Core\bin\Debug\netstandard2.1\Cource.Core.pdb
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\Cource.App\Cource.Core\obj\Debug\netstandard2.1\Cource.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\Cource.App\Cource.Core\obj\Debug\netstandard2.1\Cource.Core.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\Cource.App\Cource.Core\obj\Debug\netstandard2.1\Cource.Core.AssemblyInfo.cs
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\Cource.App\Cource.Core\obj\Debug\netstandard2.1\Cource.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\Cource.App\Cource.Core\obj\Debug\netstandard2.1\Cource.Core.dll
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\Cource.App\Cource.Core\obj\Debug\netstandard2.1\Cource.Core.pdb

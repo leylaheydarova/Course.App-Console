@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "Cource.Service/1.0.0": {
+        "dependencies": {
+          "Cource.Data": "1.0.0"
+        },
+        "runtime": {
+          "Cource.Service.dll": {}
+        }
+      },
+      "Cource.Core/1.0.0": {
+        "runtime": {
+          "Cource.Core.dll": {}
+        }
+      },
+      "Cource.Data/1.0.0": {
+        "dependencies": {
+          "Cource.Core": "1.0.0"
+        },
+        "runtime": {
+          "Cource.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cource.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cource.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cource.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

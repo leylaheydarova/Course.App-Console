@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\CSharp Pseudo Real Practice 09\\Cource.App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CFAAE13-0F27-428F-89AE-0F53C6464B5E}|Cource.Data\\Cource.Data.csproj|c:\\users\\user\\desktop\\learning programming\\jed academy\\backend\\csharp pseudo real practice 09\\cource.app\\cource.data\\repositories\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CFAAE13-0F27-428F-89AE-0F53C6464B5E}|Cource.Data\\Cource.Data.csproj|solutionrelative:cource.data\\repositories\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{344D6FAB-94A8-4A1C-8DAA-FB3ACD6083D7}|Cource.Service\\Cource.Service.csproj|c:\\users\\user\\desktop\\learning programming\\jed academy\\backend\\csharp pseudo real practice 09\\cource.app\\cource.service\\services\\implements\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{344D6FAB-94A8-4A1C-8DAA-FB3ACD6083D7}|Cource.Service\\Cource.Service.csproj|solutionrelative:cource.service\\services\\implements\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FEBCDDC-97EB-432E-94D1-59EA21A4C99E}|Cource.Core\\Cource.Core.csproj|c:\\users\\user\\desktop\\learning programming\\jed academy\\backend\\csharp pseudo real practice 09\\cource.app\\cource.core\\models\\basemodel\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FEBCDDC-97EB-432E-94D1-59EA21A4C99E}|Cource.Core\\Cource.Core.csproj|solutionrelative:cource.core\\models\\basemodel\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\CSharp Pseudo Real Practice 09\\Cource.App\\Cource.Data\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Cource.Data\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\CSharp Pseudo Real Practice 09\\Cource.App\\Cource.Data\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "Cource.Data\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T14:30:58.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\CSharp Pseudo Real Practice 09\\Cource.App\\Cource.Core\\Models\\BaseModel\\Person.cs",
+              "RelativeDocumentMoniker": "Cource.Core\\Models\\BaseModel\\Person.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\CSharp Pseudo Real Practice 09\\Cource.App\\Cource.Core\\Models\\BaseModel\\Person.cs",
+              "RelativeToolTip": "Cource.Core\\Models\\BaseModel\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T14:19:44.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TeacherService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\CSharp Pseudo Real Practice 09\\Cource.App\\Cource.Service\\Services\\Implements\\TeacherService.cs",
+              "RelativeDocumentMoniker": "Cource.Service\\Services\\Implements\\TeacherService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\CSharp Pseudo Real Practice 09\\Cource.App\\Cource.Service\\Services\\Implements\\TeacherService.cs",
+              "RelativeToolTip": "Cource.Service\\Services\\Implements\\TeacherService.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAIwC8AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T14:16:45.569Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

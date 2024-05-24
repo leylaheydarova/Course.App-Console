@@ -1,0 +1,118 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETStandard,Version=v2.1": {
+      "Cource.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/Cource.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Cource.Core.dll": {}
+        }
+      },
+      "Cource.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Cource.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Cource.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Cource.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cource.Core/1.0.0": {
+      "type": "project",
+      "path": "../Cource.Core/Cource.Core.csproj",
+      "msbuildProject": "../Cource.Core/Cource.Core.csproj"
+    },
+    "Cource.Data/1.0.0": {
+      "type": "project",
+      "path": "../Cource.Data/Cource.Data.csproj",
+      "msbuildProject": "../Cource.Data/Cource.Data.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETStandard,Version=v2.1": [
+      "Cource.Data >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\User\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\CSharp Pseudo Real Practice 09\\Cource.App\\Cource.Service\\Cource.Service.csproj",
+      "projectName": "Cource.Service",
+      "projectPath": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\CSharp Pseudo Real Practice 09\\Cource.App\\Cource.Service\\Cource.Service.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\CSharp Pseudo Real Practice 09\\Cource.App\\Cource.Service\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netstandard2.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "projectReferences": {
+            "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\CSharp Pseudo Real Practice 09\\Cource.App\\Cource.Data\\Cource.Data.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\CSharp Pseudo Real Practice 09\\Cource.App\\Cource.Data\\Cource.Data.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "netstandard2.1": {
+        "targetAlias": "netstandard2.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "NETStandard.Library": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
