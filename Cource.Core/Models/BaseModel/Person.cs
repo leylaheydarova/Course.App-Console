@@ -11,6 +11,15 @@ namespace Cource.Core.Models.BaseModel
         public string Email { get; set; }
         public string PhoneNumber { get; set; }
 
+        private const int _maxFinLength = 7;
+
+        protected Person()
+        {
+            if (Fin.Length > _maxFinLength)
+            {
+                Fin = Fin.Substring(0, _maxFinLength);
+            }
+        }
         public override string ToString()
         {
             return $"{ID} - {Fin}  {FullName}\nContact: {Email} - {PhoneNumber}";

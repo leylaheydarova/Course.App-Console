@@ -8,5 +8,10 @@ namespace Cource.Core.Models
     public class Subjects:BaseEntity
     {
         public string Name {  get; set; }
+
+        public override string ToString()
+        {
+            return $"{ID} - {Name}";
+        }
     }
 }
