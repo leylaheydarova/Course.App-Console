@@ -1,0 +1,62 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Cource.App/1.0.0": {
+        "dependencies": {
+          "Cource.Service": "1.0.0"
+        },
+        "runtime": {
+          "Cource.App.dll": {}
+        }
+      },
+      "Cource.Core/1.0.0": {
+        "runtime": {
+          "Cource.Core.dll": {}
+        }
+      },
+      "Cource.Data/1.0.0": {
+        "dependencies": {
+          "Cource.Core": "1.0.0"
+        },
+        "runtime": {
+          "Cource.Data.dll": {}
+        }
+      },
+      "Cource.Service/1.0.0": {
+        "dependencies": {
+          "Cource.Data": "1.0.0"
+        },
+        "runtime": {
+          "Cource.Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cource.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cource.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cource.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cource.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

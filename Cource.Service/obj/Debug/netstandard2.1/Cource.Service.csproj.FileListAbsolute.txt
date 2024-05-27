@@ -13,3 +13,4 @@ C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Rea
 C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\Cource.App\Cource.Service\obj\Debug\netstandard2.1\Cource.S.64820717.Up2Date
 C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\Cource.App\Cource.Service\obj\Debug\netstandard2.1\Cource.Service.dll
 C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\Cource.App\Cource.Service\obj\Debug\netstandard2.1\Cource.Service.pdb
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\Cource.App\Cource.Service\obj\Debug\netstandard2.1\Cource.Service.sourcelink.json

@@ -7,10 +7,10 @@ namespace Cource.Data.Repositories.Interfaces
 {
     public interface IGenericRepository<T> where T : BaseEntity
     {
-        public void Add(T id);
-        public void Update(T id);
-        public void Delete(T id);
-        public T GetByID(T id);
+        public void Add(T entity);
+        public void Update(T entity);
+        public void Delete(int id);
+        public T GetByID(int id);
         public ICollection<T> GetAll(); 
     }
 }

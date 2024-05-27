@@ -7,7 +7,12 @@ namespace Cource.Core.Models
 {
     public class Group:BaseEntity
     {
-        string Label { get; set; }
-        string Description { get; set; }
+        public string Label { get; set; }
+        public string Description { get; set; }
+
+        public override string ToString()
+        {
+            return $"{ID} - {Label} - {Description}";
+        }
     }
 }

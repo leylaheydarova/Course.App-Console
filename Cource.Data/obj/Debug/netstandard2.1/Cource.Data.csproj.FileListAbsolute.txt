@@ -11,3 +11,4 @@ C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Rea
 C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\Cource.App\Cource.Data\obj\Debug\netstandard2.1\Cource.D.ABCDA24F.Up2Date
 C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\Cource.App\Cource.Data\obj\Debug\netstandard2.1\Cource.Data.dll
 C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\Cource.App\Cource.Data\obj\Debug\netstandard2.1\Cource.Data.pdb
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\Cource.App\Cource.Data\obj\Debug\netstandard2.1\Cource.Data.sourcelink.json

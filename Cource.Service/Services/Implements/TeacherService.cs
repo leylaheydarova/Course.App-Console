@@ -33,27 +33,49 @@ namespace Cource.Service.Services.Implements
 
         public void Delete()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("Enter teacher's ID:");
+            int.TryParse(Console.ReadLine(), out int id);
+            if (id != null)
+            {
+                _teacherRepository.Delete(id);
+            }
         }
 
         public void GetAll()
         {
-            throw new NotImplementedException();
+            ICollection<Teacher>teachers = _teacherRepository.GetAll();
+            foreach(Teacher teacher in teachers)
+            {
+                Console.WriteLine(teacher);
+            }
         }
 
         public void GetByID()
         {
-            Console.WriteLine("Teacher ID:");
+            Console.WriteLine("Enter teacher's ID:");
             int.TryParse(Console.ReadLine(), out int id);
             Teacher teacher = _teacherRepository.GetByID(id);
-            if (id != null) {
-                _teacherRepository.GetByID(teacher);
-            }
+            if (teacher != null) Console.WriteLine(teacher);
         }
 
         public void Update()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("Enter teacher's ID:");
+            int.TryParse(Console.ReadLine(), out int id);
+            Teacher updatedteacher = _teacherRepository.GetByID(id);
+            if (updatedteacher != null)
+            {
+                Console.WriteLine("New Fin seqeuence:");
+                updatedteacher.Fin = Console.ReadLine();
+                Console.WriteLine("Name and Surname:");
+                updatedteacher.FullName = Console.ReadLine();
+                Console.WriteLine("Email:");
+                updatedteacher.Email = Console.ReadLine();
+                Console.WriteLine("Phone number: (ex, +994 XX XXX XX XX");
+                updatedteacher.PhoneNumber = Console.ReadLine();
+                updatedteacher.Updatedat = DateTime.Now;
+                _teacherRepository.Update(updatedteacher);
+            }
         }
     }
 }

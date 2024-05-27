@@ -7,3 +7,4 @@ C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Rea
 C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\Cource.App\Cource.Core\obj\Debug\netstandard2.1\Cource.Core.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\Cource.App\Cource.Core\obj\Debug\netstandard2.1\Cource.Core.dll
 C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\Cource.App\Cource.Core\obj\Debug\netstandard2.1\Cource.Core.pdb
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\Cource.App\Cource.Core\obj\Debug\netstandard2.1\Cource.Core.sourcelink.json
